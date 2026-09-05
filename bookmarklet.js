@@ -1,1 +1,1 @@
-javascript:(()=>{let s=document.createElement('script');s.src='https://raw.githubusercontent.com/mdarafathassan8-code/Learning-Bot/main/app.js';document.body.appendChild(s)})()
+javascript:(()=>{let s=document.createElement('script');s.src='https://cdn.jsdelivr.net/gh/mdarafathassan8-code/Learning-Bot@main/app.js';s.onload=()=>s.remove();document.documentElement.appendChild(s)})()
